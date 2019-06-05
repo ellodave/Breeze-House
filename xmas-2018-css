@@ -1,0 +1,10 @@
+/* XMAS 2018 */
+/*
+.home{background-image: url(https://www.breezehouse.co.uk/wp-content/uploads/2015/06/breeze-house-takeover-1_1.png);background-size: contain;background-attachment: scroll;}
+.home #main-container{background-color:transparent!important;}
+.home #header{background-image: url(https://www.breezehouse.co.uk/wp-content/uploads/2015/06/Breeze-house-xmas-header-copy.png);background-position: bottom;background-size: contain;background-repeat: repeat-x;}
+@media only screen and (min-device-width: 320px) and (max-device-width: 812px) {
+	.home{background-image:none;}
+	.home #main-container{background-color:#FFFFFF!important;}
+	.home #header{background-image:none;}}
+*/
