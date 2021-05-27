@@ -12,28 +12,33 @@
     color:var(--color-gold)!important;
     font-size: 38px!important;
     line-height: 50px!important;
+    font-style:italic!important;
 }
 .h2{
     font-family:var(--heading-font)!important;
     color:var(--color-body-font)!important;
     font-size: 25px!important;
     line-height: 36px!important;
+    font-style:italic!important;
 }
 .h3{
     font-family:var(--heading-font)!important;
     color:var(--color-body-font)!important;
     font-size: 20px!important;
     line-height: 27px!important;
+    font-style:italic!important;
 }
 .h4{
     font-family:var(--heading-font)!important;
     color:var(--color-body-font)!important;
     font-size: 16px!important;
     line-height: 20px!important;
+    font-style:italic!important;
 }
 .h5{
     font-family:var(--heading-font)!important;
     color:var(--color-body-font)!important;
     font-size: 14px!important;
     line-height: 18px!important;
+    font-style:italic!important;
 }
