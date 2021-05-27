@@ -5,7 +5,7 @@
   --color-blue: #a2cbed;
   --color-green: #afb839;
   --body-font: font-family: "Open Sans", sans-serif;
-  --heading-font: font-family: "Playfair Display", sans-serif;font-style:italic!important;
+  --heading-font: font-family: "Playfair Display", sans-serif;
 }
 .h1{
     font-family:var(--heading-font)!important;
