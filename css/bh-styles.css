@@ -4,8 +4,8 @@
   --color-grey: #30373a;
   --color-blue: #a2cbed;
   --color-green: #afb839;
-  --body-font: font-family: "Open Sans", sans-serif;
-  --heading-font: font-family: "Playfair Display", sans-serif;
+  --body-font: "Open Sans", sans-serif;
+  --heading-font: "Playfair Display", sans-serif;
 }
 .h1{
     font-family:var(--heading-font)!important;
@@ -16,7 +16,7 @@
 }
 .h2{
     font-family:var(--heading-font)!important;
-    color:var(--color-body-font)!important;
+    color:var(--color-gold)!important;
     font-size: 25px!important;
     line-height: 36px!important;
     font-style:italic!important;
