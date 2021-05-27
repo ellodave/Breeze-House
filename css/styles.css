@@ -8,26 +8,31 @@
   --heading-font: font-family: "Playfair Display", sans-serif;font-style:italic!important;
 }
 .h1{
+    font-family:var(--heading-font)!important;
     color:var(--color-gold)!important;
     font-size: 38px!important;
     line-height: 50px!important;
 }
 .h2{
+    font-family:var(--heading-font)!important;
     color:var(--color-body-font)!important;
     font-size: 25px!important;
     line-height: 36px!important;
 }
 .h3{
+    font-family:var(--heading-font)!important;
     color:var(--color-body-font)!important;
     font-size: 20px!important;
     line-height: 27px!important;
 }
 .h4{
+    font-family:var(--heading-font)!important;
     color:var(--color-body-font)!important;
     font-size: 16px!important;
     line-height: 20px!important;
 }
 .h5{
+    font-family:var(--heading-font)!important;
     color:var(--color-body-font)!important;
     font-size: 14px!important;
     line-height: 18px!important;
