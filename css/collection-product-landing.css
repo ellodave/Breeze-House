@@ -20,8 +20,8 @@ h1.product-landing__hero__title{
 min-height:500px;
 }
 .fw-row{
-  margin-left: calc(-50vw + 50%);
-  margin-right: calc(-50vw + 50%);
+  margin-left: calc(-50vw + 50%)!important;
+  margin-right: calc(-50vw + 50%)!important;
 }
 .fw-row > .container{
   max-width:1170px;
