@@ -20,7 +20,7 @@ h1.product-landing__hero__title{
   color:var(--color-gold);
 }
 .product-landing__hero__inner{
-min-height:500px;
+ min-height:500px;
 }
 .fw-row{
   margin-left: calc(-50vw + 50%)!important;
@@ -29,8 +29,15 @@ min-height:500px;
 .fw-row > .container{
   max-width:1170px;
 }
+.product-landing__collection figcaption{
+  background-color: white;
+  padding: 1rem;
+}
 .product-landing__collection{
   background-color:#ececec;
+}
+.product-landing__collection figure img{
+  margin-bottom:0;
 }
 .quote-block{
   background-color:#e7e2dd;
