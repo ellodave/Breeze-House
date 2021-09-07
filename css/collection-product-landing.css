@@ -41,6 +41,8 @@ h1.product-landing__hero__title{
 .quote-block{
   background-color:white;
   min-height:360px;
+  max-width:900px;
+  margin:auto;
 }
 .quote-block q.h2 p{
   font-family: var(--heading-font)!important;
