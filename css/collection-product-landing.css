@@ -43,6 +43,13 @@ h1.product-landing__hero__title{
   background-color:white;
   min-height:360px;
 }
+.quote-block q.h2 p{
+  font-family: var(--heading-font)!important;
+    color: var(--color-gold)!important;
+    font-size: 25px!important;
+    line-height: 36px!important;
+    font-style: italic!important;
+}
 q::before {
     font-size: 5rem;
     font-family: 'dashicons';
