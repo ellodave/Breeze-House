@@ -59,6 +59,13 @@ h1.product-landing__hero__title{
     line-height: 1.4!important;
     font-style: italic!important;
 }
+.bh-features-content p {
+    font-family: var(--heading-font)!important;
+    color: var(--color-body-font)!important;
+    font-size: 1.7rem;
+    line-height: 1.6!important;
+    font-style: italic!important;
+}
 q::before{
     font-size: 5rem;
     font-family: 'dashicons';
