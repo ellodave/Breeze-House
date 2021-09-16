@@ -36,8 +36,20 @@ h1.product-landing__hero__title{
 .product-landing__collection, .product-landing__bespoke-gallery{
   background-color:#ececec;
 }
+.product-landing__collection a:hover img{
+	opacity:.7;
+	transition:opacity ease 500ms;
+    -webkit-transition:opacity ease 500ms;
+    -moz-transition:opacity ease 500ms;
+    -ms-transition:opacity ease 500ms;
+    -o-transition:opacity ease 500ms;
+}
 .product-landing__collection figure img{
   margin-bottom:0;
+  -webkit-transition:opacity ease 500ms;
+  -moz-transition:opacity ease 500ms;
+  -ms-transition:opacity ease 500ms;
+  -o-transition:opacity ease 500ms;
 }
 .quote-block{
   background-color:white;
