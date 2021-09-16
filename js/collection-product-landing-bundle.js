@@ -4,7 +4,7 @@ var swiper = new Swiper('.breeze-house-features', {
   loop: true,
 grabCursor: true,
   autoplay: {
-    delay: 3000,
+    delay: 8000,
     disableOnInteraction: false,
   },
   // init: false,
@@ -35,4 +35,18 @@ navigation: {
     nextEl: '.swiper-button-next',
     prevEl: '.swiper-button-prev',
   },
+  breakpoints: {
+    640: {
+      slidesPerView: 1,
+      spaceBetween: 30,
+    },
+    768: {
+      slidesPerView: 2,
+      spaceBetween: 30,
+    },
+    1024: {
+      slidesPerView: 2,
+      spaceBetween: 30,
+    },
+  }
 });
