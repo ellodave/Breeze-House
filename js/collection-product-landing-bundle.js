@@ -18,7 +18,7 @@ navigation: {
   },
 });
 var swiper = new Swiper('.collection-landing-bespoke-gallery', {
-  slidesPerView: 2,
+  slidesPerView: 1,
   spaceBetween: 30,
   loop: true,
 grabCursor: true,
