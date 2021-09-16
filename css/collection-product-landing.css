@@ -33,7 +33,7 @@ h1.product-landing__hero__title{
   padding: 1rem;
   text-align:center;
 }
-.product-landing__collection{
+.product-landing__collection, .product-landing__bespoke-gallery{
   background-color:#ececec;
 }
 .product-landing__collection figure img{
