@@ -46,11 +46,10 @@ h1.product-landing__hero__title{
   margin:auto;
 }
 .quote-block q.h2 p{
-  font-family: var(--heading-font)!important;
+    font-family: var(--heading-font)!important;
     color: var(--color-gold)!important;
-    font-size: 1.7rem!important;
-    line-height: 1.5!important
-    font-style: italic!important;
+    font-size: 2.3rem!important;
+    line-height: 1.5!important;
 }
 .bh-features-content h4{
      color:white!important;
