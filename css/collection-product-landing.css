@@ -48,12 +48,16 @@ h1.product-landing__hero__title{
 .quote-block q.h2 p{
   font-family: var(--heading-font)!important;
     color: var(--color-gold)!important;
-    font-size: 25px!important;
-    line-height: 36px!important;
+    font-size: 1.7rem!important;
+    line-height: 1.5!important
     font-style: italic!important;
 }
 .bh-features-content h4{
-  color:white!important;
+     color:white!important;
+    font-family: var(--heading-font)!important;
+    font-size: 3rem;
+    line-height: 1.4!important;
+    font-style: italic!important;
 }
 q::before{
     font-size: 5rem;
