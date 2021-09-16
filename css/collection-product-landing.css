@@ -51,6 +51,19 @@ h1.product-landing__hero__title{
     font-size: 2.3rem!important;
     line-height: 1.5!important;
 }
+@media (min-width:1024px){
+.lg\:grid-cols-3-1{
+  grid-template-columns: 2fr 1fr!important;
+}
+}
+.bh-features-image{
+  min-height:200px;
+}
+.bh-features{
+  background-color: var(--color-gold);
+  color:white;
+  min-height:450px;
+}
 .bh-features-content h4{
      color:white!important;
     font-family: var(--heading-font)!important;
