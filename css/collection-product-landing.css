@@ -52,6 +52,9 @@ h1.product-landing__hero__title{
     line-height: 36px!important;
     font-style: italic!important;
 }
+.quote-block h4{
+  color:white!important;
+}
 q::before{
     font-size: 5rem;
     font-family: 'dashicons';
