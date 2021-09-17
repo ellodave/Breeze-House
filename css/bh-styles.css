@@ -69,7 +69,8 @@
 
 
 :is(h1, h2, h3, h4, h5, h6) {
-  font-family:"kepler-std-display", "Playfair Display", sans-serif!important;
+   font-family:var(--heading-font)!important;
+   font-weight:600!important;
 }
 .h1{
     font-family:var(--heading-font)!important;
