@@ -9,7 +9,7 @@
   --color-experience-dark-gray: #e4e0da;
   --color-experience-light-gray: #f9f5f1;
   --body-font: "Open Sans", sans-serif;
-  --heading-font: "kepler-std-display", "Playfair Display", sans-serif;
+  --heading-font: "kepler-std-display", "Playfair Display", sans-serif!important;
 }
 
 /* COLOR CLASSES */
