@@ -74,13 +74,13 @@
 }
 .h1{
     font-family:var(--heading-font)!important;
-    color:var(--color-gold)!important;
+    color:var(--color-experience-gold)!important;
     font-size: 38px!important;
     line-height: 50px!important;
 }
 .h2{
     font-family:var(--heading-font)!important;
-    color:var(--color-gold)!important;
+    color:var(--color-experience-gold)!important;
     font-size: 28px!important;
     line-height: 32px!important;
 }
