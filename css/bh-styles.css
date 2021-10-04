@@ -66,12 +66,26 @@
 	background-color:var(--color-experience-light-gray)!important;
 }
 
-
+/* CHANGE GLOBAL HEADINGS */
 
 :is(h1, h2, h3, h4, h5, h6) {
    font-family:var(--heading-font)!important;
    font-weight:600!important;
 }
+:-webkit-any(h1, h2, h3, h4, h5, h6) {
+   font-family:var(--heading-font)!important;
+   font-weight:600!important;
+}
+:-moz-any(h1, h2, h3, h4, h5, h6){
+   font-family:var(--heading-font)!important;
+   font-weight:600!important;
+}
+:matches(h1, h2, h3, h4, h5, h6){
+   font-family:var(--heading-font)!important;
+   font-weight:600!important;
+}
+
+
 .h1{
     font-family:var(--heading-font)!important;
     color:var(--color-experience-gold)!important;
