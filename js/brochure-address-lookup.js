@@ -1,3 +1,4 @@
+jQuery(document).ready = function() {
 new clickToAddress({
     accessToken: '013c4-5976f-674e3-03a60',
     showLogo: false,
@@ -11,3 +12,4 @@ new clickToAddress({
     },
     domMode: 'id'
 });
+};
